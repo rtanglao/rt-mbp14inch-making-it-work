@@ -5,3 +5,4 @@ Document getting my work aka MZLA mbp14inch A2779 working for me :-) #ymmv
 * 2\. `brew install frum`
 * 3\. `brew install libyaml`
 * 4\. `brew install libtool`
+* 5\. `gem uninstall psych`
