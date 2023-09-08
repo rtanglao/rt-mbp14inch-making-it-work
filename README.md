@@ -4,3 +4,4 @@ Document getting my work aka MZLA mbp14inch A2779 working for me :-) #ymmv
 * 1\. unboxing - it turns on when you open the lid?!?
 * 2\. `brew install frum`
 * 3\. `brew install libyaml`
+* 4\. `brew install libtool`
