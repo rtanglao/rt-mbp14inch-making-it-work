@@ -1,5 +1,7 @@
 # rt-mbp14inch-making-it-work
 Document getting my work aka MZLA mbp14inch A2779 working for me :-) #ymmv
+## 2023-09-11
+* 1\. installed emacs https://www.rubyonmac.dev/
 ## 2023-09-08
 * 1\. unboxing - it turns on when you open the lid?!?
 * 2\. `brew install frum`
@@ -11,3 +13,4 @@ Document getting my work aka MZLA mbp14inch A2779 working for me :-) #ymmv
 sudo gem install psych -- --with-libyaml-dir=$(brew --prefix libyaml)
 export RUBY_CONFIGURE_OPTS=--with-libyaml-dir=$(brew --prefix libyaml)
 ```
+& 7\. gave up on shenanigans and paid for ruby on mac :-) https://www.rubyonmac.dev/
